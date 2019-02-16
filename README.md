@@ -1,12 +1,12 @@
 
 
 
-# 1. MAGENTO 2 SMS NOTIFICATION EXTENSION
+# 1. Free MAGENTO 2 SMS NOTIFICATION EXTENSION
 SMS (Short Message Service) or simply "texting", is a feature available with practically all mobile phones, allowing people to send and receive short notification messages. Choosing the most effective way to communicate is essential to the business of getting things done.
 
 So we are inundated with messages from all different forms of communication, including email, messaging apps, snail mail, social media, telemarketing and more. Using SMS is the most optimized and convenient way for you to interact quickly and directly with your customers and administrators as well.
 
-Moreover, this [Magento 2 SMS Notification](https://landofcoder.com/magento-2-sms-notification-extension.html/) extension is a comprehensive and powerful module that enables you to send SMS Service API with Twilio, BulkSMS to your customers or administrators during various events in your Magento 2 store. Be an intelligent businessman, choose Magento 2 SMS notification with some outstanding features below.
+Moreover, this [Free Magento 2 SMS Notification](https://landofcoder.com/magento-2-sms-notification-extension.html/) extension is a comprehensive and powerful module that enables you to send SMS Service API with Twilio, BulkSMS to your customers or administrators during various events in your Magento 2 store. Be an intelligent businessman, choose Magento 2 SMS notification with some outstanding features below.
 ## 2. Documentation
 
 - Installation guide: https://blog.landofcoder.com/magento-2-install-extension/
